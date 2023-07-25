@@ -166,30 +166,8 @@ const CONFIG = {
       ]
     },
 		{
-			icon: 'book',
-			id: '2',
-			links: [
-				{
-					name: 'New Testament',
-					link: 'https://nixos.wiki/',
-				},
-        {
-					name: 'Old Testament',
-					link: 'https://wiki.archlinux.org/',
-				},
-				{
-					name: 'ItsFoss',
-					link: 'https://itsfoss.com/',
-				},
-				{
-					name: 'LunarVIM',
-					link: 'https://www.lunarvim.org/',
-				},
-			],
-		},
-		{
 			icon: 'coffee',
-			id: '3',
+			id: '2',
 			links: [
 				{
 					name: 'DeviantArt',
@@ -233,6 +211,10 @@ const CONFIG = {
 					name: 'Anonfiles',
 					link: 'https://anonfiles.com/',
 				},
+        {
+          name: 'Nix Search',
+          link: 'https://search.nixos.org'
+        }
 			],
 		},
 		{
