@@ -76,7 +76,7 @@ const CONFIG = {
 			id: '3',
 			name: 'NixOS Seach',
 			icon: 'box',
-      link: 'https://search.nixos.org/',
+      link: 'https://search.nixos.org/packages',
 		},
 		{
 			id: '4',
