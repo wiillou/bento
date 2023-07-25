@@ -207,10 +207,6 @@ const CONFIG = {
           name: 'LunarVim',
           url: 'https://lunarvim.org',
         },
-				{
-					name: 'Anonfiles',
-					link: 'https://anonfiles.com/',
-				},
         {
           name: 'Nix Search',
           link: 'https://search.nixos.org'
