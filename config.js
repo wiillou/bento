@@ -29,7 +29,7 @@ const CONFIG = {
 	greetingNight: 'Go bed',
 
 	// Layout
-	bentoLayout: 'lists', // 'bento', 'lists', 'buttons'
+	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
 	// Weather
 	weatherKey: '017b77a6cf784a856aad45bd8c6efc28', // Write here your API Key
