@@ -23,10 +23,10 @@ const CONFIG = {
   imageUrl: './assets/background.jpg', // Set custom background image URL. If the page is served insecurely, you may have issues loading images from pages over https.
 
 	// Greetings
-	greetingMorning: 'Good morning!',
-	greetingAfternoon: 'Good afternoon,',
-	greetingEvening: 'Good evening,',
-	greetingNight: 'Go to Sleep!',
+	greetingMorning: 'Cock-a-Doodle-Doo',
+	greetingAfternoon: 'Good nyafternoon,',
+	greetingEvening: 'Good nyevening,',
+	greetingNight: 'Go bed ;3',
 
 	// Layout
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
@@ -75,7 +75,7 @@ const CONFIG = {
 		{
 			id: '3',
 			name: 'NixOS Seach',
-			icon: 'cube',
+			icon: 'box',
       link: 'search.nixos.org/',
 		},
 		{
