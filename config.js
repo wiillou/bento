@@ -15,7 +15,7 @@ const CONFIG = {
 	name: 'wiillou!',
 	openInNewTab: true,
 	twelveHourFormat: true,
-  title: 'Bento',
+  title: 'Home',
 
 	// Theme
 	theme: 'latte-mocha',
@@ -66,7 +66,7 @@ const CONFIG = {
 			icon: 'github',
 			link: 'https://github.com/',
 		},
-		{
+		{ 
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
@@ -144,7 +144,7 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'linux',
+			icon: 'book',
 			id: '1',
 			links: [
 				{
