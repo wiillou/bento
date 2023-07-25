@@ -23,9 +23,9 @@ const CONFIG = {
   imageUrl: './assets/background.jpg', // Set custom background image URL. If the page is served insecurely, you may have issues loading images from pages over https.
 
 	// Greetings
-	greetingMorning: 'MORNING ',
-	greetingAfternoon: 'Afternoon',
-	greetingEvening: 'Good Evening',
+	greetingMorning: 'Morning,',
+	greetingAfternoon: 'Afternoon,',
+	greetingEvening: 'Have a Nice Evening,',
 	greetingNight: 'Go bed',
 
 	// Layout
@@ -51,9 +51,9 @@ const CONFIG = {
 	changeThemeByHour: false,
 	hourDarkThemeActive: '18:30',
 	hourDarkThemeInactive: '07:00',
-
-  	// Autochange automatically based on location (sunrise/sunset). Openweathermap API key required.
-  	changeThemeByLocation: false,
+  
+  // Autochange automatically based on location (sunrise/sunset). Openweathermap API key required.
+  changeThemeByLocation: false,
 
   // ┌┐ ┬ ┬┌┬┐┌┬┐┌─┐┌┐┌┌─┐
   // ├┴┐│ │ │  │ │ ││││└─┐
