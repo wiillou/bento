@@ -23,9 +23,9 @@ const CONFIG = {
   imageUrl: './assets/background.jpg', // Set custom background image URL. If the page is served insecurely, you may have issues loading images from pages over https.
 
 	// Greetings
-	greetingMorning: 'Surprised you are up this early',
-	greetingAfternoon: 'Good afternoon',
-	greetingEvening: 'Good evening',
+	greetingMorning: 'MORNING ',
+	greetingAfternoon: 'Afternoon',
+	greetingEvening: 'Good Evening',
 	greetingNight: 'Go bed',
 
 	// Layout
