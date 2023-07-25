@@ -143,9 +143,31 @@ const CONFIG = {
 
 	// First Links Container
 	firstlistsContainer: [
+    {
+      icon: "image",
+      id: '1',
+      links: [
+        {
+					name: 'Youtube',
+					link: 'https://youtube.com',
+				},
+        {
+					name: 'Odysee',
+					link: 'https://odysee.com/',
+				},
+        {
+					name: 'Twitter',
+					link: 'https://twitter.com/',
+				},
+        {
+					name: 'Instagram',
+					link: 'https://instagram.com/',
+				},
+      ]
+    },
 		{
 			icon: 'book',
-			id: '1',
+			id: '2',
 			links: [
 				{
 					name: 'New Testament',
@@ -156,7 +178,7 @@ const CONFIG = {
 					link: 'https://wiki.archlinux.org/',
 				},
 				{
-					name: 'FOSS!',
+					name: 'ItsFoss',
 					link: 'https://itsfoss.com/',
 				},
 				{
@@ -167,19 +189,19 @@ const CONFIG = {
 		},
 		{
 			icon: 'coffee',
-			id: '2',
+			id: '3',
 			links: [
 				{
 					name: 'DeviantArt',
 					link: 'https://www.deviantart.com',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Coolors',
+					link: 'https://www.coolors.co/000000',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Catppuccin!',
+					link: 'https://catppuccin.github.io/',
 				},
 				{
 					name: 'Figma',
@@ -196,29 +218,33 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Firefox Addons',
-					link: 'https://addons.mozilla.org/en-GB/firefox/extensions/',
+					name: 'GitHub',
+					link: 'https://github.com/wiillou',
 				},
 				{
-					name: 'Reddit',
-					link: 'https://www.reddit.com',
+					name: 'Phind',
+					link: 'https://phind.com',
 				},
+        {
+          name: 'LunarVim',
+          url: 'https://lunarvim.org',
+        },
 				{
 					name: 'Anonfiles',
 					link: 'https://anonfiles.com/',
 				},
-				{
-					name: 'Catppuccin <3',
-					link: 'https://www.catppuccin.github.io/',
-				},
 			],
 		},
 		{
-			icon: 'reddit',
+			icon: 'glasses',
 			id: '2',
 			links: [
+        {
+          name: 'Reddit',
+          link: 'https://reddit.com',
+        },
 				{
-					name: 'UnixP**n',
+					name: 'UnixP*rn',
 					link: 'https://www.reddit.com/r/unixporn/',
 				},
 				{
@@ -227,11 +253,7 @@ const CONFIG = {
 				},
 				{
 					name: 'ProgrammerHumor',
-					link: 'https://www.reddit.com/r/ProgrammerHumor/',
-				},
-				{
-					name: 'My Github',
-					link: 'https://github.com/wiillou',
+					link: 'https://www.reddit.com/r/linuxmemes/',
 				},
 			],
 		},
