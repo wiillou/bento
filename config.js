@@ -226,8 +226,8 @@ const CONFIG = {
 					link: 'https://www.reddit.com/r/unixporn/',
 				},
 				{
-					name: 'UnixSocks',
-					link: 'https://www.reddit.com/r/unixsocks/',
+					name: 'Linux Memes',
+					link: 'https://www.reddit.com/r/linuxmemes/',
 				},
 				{
 					name: 'ProgrammerHumor',
