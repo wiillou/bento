@@ -14,7 +14,7 @@ const CONFIG = {
 	// General
 	name: 'wiillou!',
 	openInNewTab: true,
-	twelveHourFormat: true,
+	twelveHourFormat: false,
   title: 'Home',
 
 	// Theme
@@ -204,8 +204,8 @@ const CONFIG = {
 					link: 'https://phind.com',
 				},
         {
-          name: 'LunarVim',
-          url: 'https://lunarvim.org',
+          name: 'LazyVim',
+          url: 'https://lazyvim.org',
         },
         {
           name: 'Nix Search',
