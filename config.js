@@ -156,34 +156,34 @@ const CONFIG = {
 					link: 'https://odysee.com/',
 				},
         {
-					name: 'Reddit',
-					link: 'https://reddit.com'',
+					name: 'Twitter',
+					link: 'https://twitter.com/',
 				},
         {
-					name: 'Coolors',
-					link: 'hhttps://www.coolors.co/000000',
+					name: 'Instagram',
+					link: 'https://instagram.com/',
 				},
       ]
     },
 		{
-			icon: 'snowflake',
+			icon: 'coffee',
 			id: '2',
 			links: [
 				{
-					name: 'Nix Search',
-					link: 'https://search.nixos.org',
+					name: 'DeviantArt',
+					link: 'https://www.deviantart.com',
 				},
 				{
-					name: 'Nixlang Wiki',
-					link: 'https://nixlang.wiki',
+					name: 'Coolors',
+					link: 'https://www.coolors.co/000000',
 				},
 				{
-					name: 'MyNixOS',
-					link: 'https://mynixos.com',
+					name: 'Catppuccin!',
+					link: 'https://catppuccin.github.io/',
 				},
 				{
-					name: 'Nixpkgs Github',
-					link: 'https://www.github.com/NixOS/nixpkgs',
+					name: 'Figma',
+					link: 'https://www.figma.com/',
 				},
 			],
 		},
@@ -192,7 +192,7 @@ const CONFIG = {
 	// Second Links Container
 	secondListsContainer: [
 		{
-			icon: 'code-2',
+			icon: 'binary',
 			id: '1',
 			links: [
 				{
@@ -203,35 +203,35 @@ const CONFIG = {
 					name: 'Phind',
 					link: 'https://phind.com',
 				},
-        			{
-          				name: 'LazyVim',
-          				url: 'https://lazyvim.org',
-        			},
-        			{
-          				name: 'Catppuccin',
-          				link: 'https://catppuccin.github.io'
-        			}
-				],
-			},
+        {
+          name: 'LazyVim',
+          url: 'https://lazyvim.org',
+        },
+        {
+          name: 'Nix Search',
+          link: 'https://search.nixos.org'
+        }
+			],
+		},
 		{
-			icon: 'folder-open-dot',
+			icon: 'glasses',
 			id: '2',
 			links: [
-        			{
-          				name: 'Proton Mail',
-          				link: 'https://proton.me',
-        			},
+        {
+          name: 'Reddit',
+          link: 'https://reddit.com',
+        },
 				{
-					name: 'Empty',
-					link: 'https://www.wiillou.github.io/bento',
+					name: 'UnixP*rn',
+					link: 'https://www.reddit.com/r/unixporn/',
 				},
 				{
-					name: 'Empty',
-					link: 'https://www.wiillou.github.io/bento',
+					name: 'Linux Memes',
+					link: 'https://www.reddit.com/r/linuxmemes/',
 				},
 				{
-					name: 'Empty',
-					link: 'https://www.wiillou.github.io/bento',
+					name: 'ProgrammerHumor',
+					link: 'https://www.reddit.com/r/linuxmemes/',
 				},
 			],
 		},
