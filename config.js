@@ -33,7 +33,7 @@ const CONFIG = {
 
 	// Weather
 	weatherKey: '017b77a6cf784a856aad45bd8c6efc28', // Write here your API Key
-	weatherIcons: 'Onedark', // 'Onedark', 'Nord', 'Dark', 'White'
+	weatherIcons: 'Nord', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'C', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
 
@@ -217,10 +217,10 @@ const CONFIG = {
 			icon: 'folder-open-dot',
 			id: '2',
 			links: [
-        			{
-          				name: 'Proton Mail',
-          				link: 'https://proton.me',
-        			},
+        {
+          name: 'Proton Mail',
+          link: 'https://proton.me',
+        },
 				{
 					name: 'Empty',
 					link: 'https://www.wiillou.github.io/bento',
