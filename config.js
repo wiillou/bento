@@ -33,7 +33,7 @@ const CONFIG = {
 
 	// Weather
 	weatherKey: '017b77a6cf784a856aad45bd8c6efc28', // Write here your API Key
-	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
+	weatherIcons: 'Nord', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'C', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
 
@@ -156,34 +156,34 @@ const CONFIG = {
 					link: 'https://odysee.com/',
 				},
         {
-					name: 'Twitter',
-					link: 'https://twitter.com/',
+					name: 'Reddit',
+					link: 'https://reddit.com'',
 				},
         {
-					name: 'Instagram',
-					link: 'https://instagram.com/',
+					name: 'Coolors',
+					link: 'hhttps://www.coolors.co/000000',
 				},
       ]
     },
 		{
-			icon: 'coffee',
+			icon: 'snowflake',
 			id: '2',
 			links: [
 				{
-					name: 'DeviantArt',
-					link: 'https://www.deviantart.com',
+					name: 'Nix Search',
+					link: 'https://search.nixos.org',
 				},
 				{
-					name: 'Coolors',
-					link: 'https://www.coolors.co/000000',
+					name: 'Nixlang Wiki',
+					link: 'https://nixlang.wiki',
 				},
 				{
-					name: 'Catppuccin!',
-					link: 'https://catppuccin.github.io/',
+					name: 'MyNixOS',
+					link: 'https://mynixos.com',
 				},
 				{
-					name: 'Figma',
-					link: 'https://www.figma.com/',
+					name: 'Nixpkgs Github',
+					link: 'https://www.github.com/NixOS/nixpkgs',
 				},
 			],
 		},
@@ -192,7 +192,7 @@ const CONFIG = {
 	// Second Links Container
 	secondListsContainer: [
 		{
-			icon: 'binary',
+			icon: 'code-2',
 			id: '1',
 			links: [
 				{
@@ -203,35 +203,35 @@ const CONFIG = {
 					name: 'Phind',
 					link: 'https://phind.com',
 				},
-        {
-          name: 'LazyVim',
-          url: 'https://lazyvim.org',
-        },
-        {
-          name: 'Nix Search',
-          link: 'https://search.nixos.org'
-        }
-			],
-		},
+        			{
+          				name: 'LazyVim',
+          				url: 'https://lazyvim.org',
+        			},
+        			{
+          				name: 'Catppuccin',
+          				link: 'https://catppuccin.github.io'
+        			}
+				],
+			},
 		{
-			icon: 'glasses',
+			icon: 'folder-open-dot',
 			id: '2',
 			links: [
-        {
-          name: 'Reddit',
-          link: 'https://reddit.com',
-        },
+        			{
+          				name: 'Proton Mail',
+          				link: 'https://proton.me',
+        			},
 				{
-					name: 'UnixP*rn',
-					link: 'https://www.reddit.com/r/unixporn/',
+					name: 'Empty',
+					link: 'https://www.wiillou.github.io/bento',
 				},
 				{
-					name: 'Linux Memes',
-					link: 'https://www.reddit.com/r/linuxmemes/',
+					name: 'Empty',
+					link: 'https://www.wiillou.github.io/bento',
 				},
 				{
-					name: 'ProgrammerHumor',
-					link: 'https://www.reddit.com/r/linuxmemes/',
+					name: 'Empty',
+					link: 'https://www.wiillou.github.io/bento',
 				},
 			],
 		},
